@@ -1,0 +1,12 @@
+.wrap-button{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.color-shower{
+    height: 500px;
+    width: 500px;
+   
+}

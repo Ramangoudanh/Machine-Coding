@@ -1,4 +1,5 @@
 
+import Random from './components/Randomcolor';
 import Accordian from './components/accordian';
 import Star from './components/no-of-stars/index';
 
@@ -7,6 +8,7 @@ function App() {
      <>
       <Accordian/>
         <Star/>
+        <Random/>
         </>
      
     )
